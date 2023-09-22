@@ -8,6 +8,8 @@ Thanks to:<https://github.com/cheng-haha/ScConv/tree/main>
 ![image](https://github.com/Jacky-Android/ResNet-ScConv/assets/55181594/9386ee15-6e84-4279-a833-18729481f6ee)
 
 ## Actually, you just need to insert the ScConv into your model anywhere. So we add to ResNet
+
+
 ====================================================================================================
 Layer (type:depth-idx)                             Output Shape              Param #
 ====================================================================================================
