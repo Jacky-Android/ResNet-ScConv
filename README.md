@@ -9,7 +9,7 @@ Thanks to:<https://github.com/cheng-haha/ScConv/tree/main>
 
 ## Actually, you just need to insert the ScConv into your model anywhere. So we add to ResNet
 
-
+```python
 ====================================================================================================
 Layer (type:depth-idx)                             Output Shape              Param #
 ====================================================================================================
@@ -166,3 +166,4 @@ Forward/backward pass size (MB): 557.58
 Params size (MB): 94.31
 Estimated Total Size (MB): 655.03
 ====================================================================================================
+```
